@@ -38,4 +38,4 @@
 В программе можно работать с файлами формата .xlsx (Excel) и .txt (текстовые документы)
 
 ## Демо
-![Alt text]()
+![Alt text](https://github.com/SerpentDragon/InformationSearchEngine-Qt/blob/master/Demo/demo.png)

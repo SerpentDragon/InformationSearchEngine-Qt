@@ -38,4 +38,4 @@ In the upper left corner of the program there is a menu containing the items "Fi
 In the program , you can work with files of the format .xlsx (Excel) and .txt (text documents)
 
 ## Demo
-![Alt text]()
+![Alt text](https://github.com/SerpentDragon/InformationSearchEngine-Qt/blob/master/Demo/demo.png)
